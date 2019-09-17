@@ -1,0 +1,15 @@
+current directory: /Users/hh/Desktop/csv_data/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/hh/.rbenv/versions/2.6.4/bin/ruby -I /Users/hh/.rbenv/versions/2.6.4/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190917-40827-1rcpyek.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hh/Desktop/csv_data/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hh/Desktop/csv_data/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hh/Desktop/csv_data/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190917-40827-1a2ngsa/bootsnap
